@@ -99,12 +99,12 @@ p {
   -webkit-filter: blur(8px);*/
     min-height: 320px;
     /* Full height */
-    height: 50%;
+    /* height: 50%; */
 
     /* Center and scale the image nicely */
-    background-position: center;
+    /* background-position: center; */
     background-repeat: no-repeat;
-    background-size: cover;
+    /* background-size: cover; */
     position: relative;
 }
 
